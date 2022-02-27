@@ -1,0 +1,3 @@
+# Emmm...
+
+A taste on Rust, just a experiment
