@@ -2,7 +2,7 @@
 
 A taste on Rust, just a experiment
 
-# What it Did
+# TODO LIST
 
 - [x] use windows api
   - [x] show a message box
